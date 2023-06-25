@@ -1,0 +1,4 @@
+Konkatenacja za pomocą StringBuilder jest szybsza od konkatenacji przy użyciu klasy String miedzy innymi ze wzgledu na to,że
+StringBuilder przechowuje łańcuch znaków w wewnętrznej tablicy, która może być dynamicznie zwiększana w razie potrzeby.
+Podczas konkatenacji modyfikuje on bezpośrednio tę tablicę, unikając potrzeby tworzenia i kopiowania nowych obiektów (tak jak w przypadku klasy String).
+Dzięki temu, konkatenacja za pomocą StringBuilder jest znacznie bardziej wydajna i efektywna pod względem zarządzania pamięcią.
