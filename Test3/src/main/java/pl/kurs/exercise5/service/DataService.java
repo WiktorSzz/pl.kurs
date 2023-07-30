@@ -15,36 +15,6 @@ import java.util.List;
 
 public class DataService {
     private static final DateTimeFormatter DATE_FORMATTER = DateTimeFormatter.ofPattern("yyyy-M-dd");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     public static <T> List<T> createFromFile(String fileName, Class<T> dataType) {
         List<T> dataList = new ArrayList<>();
 
