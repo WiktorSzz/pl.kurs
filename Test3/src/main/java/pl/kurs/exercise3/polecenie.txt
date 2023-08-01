@@ -1,4 +1,0 @@
-Zadanie 3:
-napisz metode int getFibbonacciIndex(int number) ktora zwraca index liczby number w ciagu fibbonacciego, lub -1 jesli nie ma
-tzn: number = 8 to powinno index zwrocic 5, a jesli number = 10, to index = -1, bo 10tka nie znajduje sie w ciagu fibbonacciego
-
