@@ -1,0 +1,4 @@
+Zadanie 2:
+Zobaczymy kiedy pracujesz, zrob mi ladne zestawienie NAZWA DNIA TYGODNIA -> ILOSC stworzonych plikow java tego dnia tygodnia (pliki z tego samego katalogu co w zad 1)
+i wklej wynik w komentarz zebym widzial w jakie dni tygodnia najwiecej pracujesz ;)
+
