@@ -1,0 +1,4 @@
+Zadanie 1:
+W katalogu workspace znajdz najwiekszy plik java (czyli taki ktory zajmuje najwiecej miejsca na dysku)
+- pamietaj ze pliki java moga byc w folderach, pod folderach, pod pod folderach itp. a ty podajesz tylko
+top, np: c:/uzytkwonik/projekty-java/< i tu i wszedzie ponizej szukamy plikow java>
