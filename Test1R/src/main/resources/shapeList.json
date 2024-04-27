@@ -1,0 +1,29 @@
+[ {
+  "type" : "circle",
+  "radius" : 2.0
+}, {
+  "type" : "circle",
+  "radius" : 3.0
+}, {
+  "type" : "circle",
+  "radius" : 3.0
+}, {
+  "type" : "circle",
+  "radius" : 3.0
+}, {
+  "type" : "square",
+  "side" : 4.0
+}, {
+  "type" : "square",
+  "side" : 4.0
+}, {
+  "type" : "square",
+  "side" : 4.0
+}, {
+  "type" : "square",
+  "side" : 5.0
+}, {
+  "type" : "rectangle",
+  "width" : 5.0,
+  "height" : 2.0
+} ]
