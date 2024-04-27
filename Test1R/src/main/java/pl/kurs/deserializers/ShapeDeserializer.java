@@ -17,7 +17,7 @@ public class ShapeDeserializer extends StdDeserializer<Shape> {
     }
 
     @Override
-    public Shape deserialize(JsonParser jsonParser, DeserializationContext deserializationContext) throws IOException, JsonProcessingException {
+    public Shape deserialize(JsonParser jsonParser, DeserializationContext deserializationContext) throws IOException {
         JsonNode rootNode = jsonParser.getCodec().readTree(jsonParser);
         String type = rootNode.get("type").asText();
 
